@@ -1,5 +1,3 @@
-# KIF1A
-
 KIF1A DATA ANALYSIS - CODE SUMMARY
 =====================================
 Source: Code.R
